@@ -189,7 +189,7 @@ body {
   .section-divider {
     flex-grow: 1;          /* line fills the remaining horizontal space */
     height: 1px;
-    background-color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.2);
     border: none;
     margin: 28px 0 0 0; 
   }
